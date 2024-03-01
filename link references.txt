@@ -1,0 +1,22 @@
+test cases and scenaios
+https://www.youtube.com/watch?v=CP97UJwxTz0
+
+
+django refer websites
+https://www.programink.com/django-tutorial/django-urls-views.html
+
+
+https://pythonguides.com/django-get-all-data-from-post-request/
+
+https://medium.com/@biswajitpanda973/passing-variables-from-django-function-view-to-html-page-templates-815820f2e0e3#:~:text=To%20pass%20multiple%20variables%20from,be%20available%20in%20the%20template.
+
+https://www.youtube.com/watch?v=qmxoGYCFruM
+
+https://www.dataquest.io/blog/python-api-tutorial/#:~:text=In%20order%20to%20work%20with,install%20it%20to%20get%20started.
+
+https://www.youtube.com/watch?v=Ox-UUI9Q-4I
+
+
+https://www.youtube.com/watch?v=0jR5UFsAHkU
+
+https://www.geeksforgeeks.org/how-to-create-a-basic-api-using-django-rest-framework/
